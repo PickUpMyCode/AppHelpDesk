@@ -14,6 +14,10 @@
 
 ---
 
+## How to use
+
+Abra um webserver localhost com comando php na pasta public
+
 <h4 align="center">
  by Matheus Viana 👨‍💻
 </h4>
