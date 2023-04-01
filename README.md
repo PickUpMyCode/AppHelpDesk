@@ -16,7 +16,15 @@
 
 ## How to use
 
-Abra um webserver localhost com comando php na pasta public
+Abra um webserver localhost com comando php na pasta public com o seguinte comando:
+
+```
+php -S localhost:8080 
+```
+
+Abre um servidor web na porta 8080.
+
+---
 
 <h4 align="center">
  by Matheus Viana 👨‍💻
